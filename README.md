@@ -9,6 +9,10 @@ The goal is to ultimately be able to able to tell which content are most popular
 - HTML
 - CSS
 - Bootstrap
+- Powerpoint (for planning)
+
+## Planning Docs
+- [Powerpoint Plannding Doc](../project/pages/sba307-planning-doc1.pdf)
 
 ## How to get started
 Clone this repo to your computer and open the `index.html` file in a live server. This will land you on the home page where you can explore this Admin page.
@@ -19,12 +23,8 @@ Clone this repo to your computer and open the `index.html` file in a live server
 - Clean up the CSS and HTML
 
 ## Acknowledgements
-HTML:
 
 - [Carol Skelly for Codeply](https://dev.to/codeply/bootstrap-5-sidebar-examples-38pb)
-
-
-CSS:
-
 - [Coding Yaar](https://codingyaar.com/bootstrap-4-carousel-multiple-items-responsive/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/design-a-calendar-using-html-and-css/)
 
