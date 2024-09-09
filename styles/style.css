@@ -3,7 +3,9 @@ html {
 }
 
 .nav-pills > li:hover {
-  background-color: yellow;
+  background-color: #f5f5f1;
+  transform: scale(1.5);
+  transition-duration: 2s;
 }
 
 /* https://codingyaar.com/bootstrap-4-carousel-multiple-items-responsive/ */
@@ -51,6 +53,38 @@ html {
 
 .studios-main > div {
   flex-grow: 1;
+}
+
+/* Releases Page */
+/* https://blog.hubspot.com/website/css-hover-animation */
+.h2-container {
+  display: flex;
+  height: 200px;
+  width: 100%;
+  justify-content: center;
+}
+
+.h2-container > h2 {
+  align-self: flex-end;
+  height: 100px;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  transform-origin: bottom;
+}
+.h2-container > h2:hover {
+  animation-name: bounce;
+  animation-timing-function: ease;
+}
+@keyframes bounce {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-50px);
+  }
+  100% {
+    transform: translateY(0);
+  }
 }
 
 /* Transitions */

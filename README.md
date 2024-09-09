@@ -27,4 +27,5 @@ Clone this repo to your computer and open the `index.html` file in a live server
 - [Carol Skelly for Codeply](https://dev.to/codeply/bootstrap-5-sidebar-examples-38pb)
 - [Coding Yaar](https://codingyaar.com/bootstrap-4-carousel-multiple-items-responsive/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/design-a-calendar-using-html-and-css/)
+- [Hubspot](https://blog.hubspot.com/website/css-hover-animation)
 
