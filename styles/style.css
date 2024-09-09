@@ -8,6 +8,10 @@ html {
   transition-duration: 2s;
 }
 
+#submit-btn:active {
+  box-shadow: 2px 2px 5px #b20710;
+}
+
 /* https://codingyaar.com/bootstrap-4-carousel-multiple-items-responsive/ */
 
 .cards-wrapper {
