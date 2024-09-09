@@ -2,6 +2,10 @@ html {
   background-color: rgb(191, 224, 224);
 }
 
+.nav-pills > li:hover {
+  background-color: yellow;
+}
+
 /* https://codingyaar.com/bootstrap-4-carousel-multiple-items-responsive/ */
 
 .cards-wrapper {
