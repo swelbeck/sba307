@@ -12,7 +12,7 @@ The goal is to ultimately be able to able to tell which content are most popular
 - Powerpoint (for planning)
 
 ## Planning Docs
-- [Powerpoint Plannding Doc](../project/pages/sba307-planning-doc1.pdf)
+- [Powerpoint Plannding Doc](./pages/sba307-planning-doc1.pdf)
 
 ## How to get started
 Clone this repo to your computer and open the `index.html` file in a live server. This will land you on the home page where you can explore this Admin page.
